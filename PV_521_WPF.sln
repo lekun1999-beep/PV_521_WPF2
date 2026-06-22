@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PV_521_WPF", "PV_521_WPF\PV_521_WPF.csproj", "{8C6EB3DF-FE5C-4C4D-8F00-3FC4CD82C4B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binding", "Binding\Binding.csproj", "{67B14DF1-CD4A-4B22-8EDD-A2279DD88488}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8C6EB3DF-FE5C-4C4D-8F00-3FC4CD82C4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C6EB3DF-FE5C-4C4D-8F00-3FC4CD82C4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C6EB3DF-FE5C-4C4D-8F00-3FC4CD82C4B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B14DF1-CD4A-4B22-8EDD-A2279DD88488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B14DF1-CD4A-4B22-8EDD-A2279DD88488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B14DF1-CD4A-4B22-8EDD-A2279DD88488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B14DF1-CD4A-4B22-8EDD-A2279DD88488}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
